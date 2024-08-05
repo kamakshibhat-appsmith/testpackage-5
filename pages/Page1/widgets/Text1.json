@@ -43,7 +43,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 32,
   "shouldTruncate": false,
-  "text": "{{JSObject1.myFun1.data}}",
+  "text": "{{JSObject1a.myFun1.data}}",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 16,
